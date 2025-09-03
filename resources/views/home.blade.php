@@ -2,7 +2,6 @@
 
 @section('content')
 
-<!-- Hero Section -->
 <section id="beranda" class="py-5 text-black" style="background-color: #4facfe;">
   <div class="container">
     <div class="row justify-content-center">
