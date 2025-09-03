@@ -79,12 +79,12 @@
         <li class="nav-item"><a class="nav-link" ></a></li>
         <li class="nav-item"><a class="nav-link" ></a></li>
         <li class="nav-item"><a class="nav-link" ></a></li>
-        {{-- <li class="nav-item"><a class="nav-link" ></a></li>
-        <li class="nav-item"><a class="nav-link" ></a></li> --}}
+        <li class="nav-item"><a class="nav-link" ></a></li>
+        <li class="nav-item"><a class="nav-link" ></a></li>
       </ul>
 
-       {{-- <a href="{{ route('register') }}" class="btn btn-login ms-3 me-2">daftar</a>
-      <a href="{{ route('login') }}" class="btn btn-login ms-3 me-2">Masuk</a> --}}
+       {{-- <a href="{{ route('register') }}" class="btn btn-login ms-3 me-2">daftar</a> --}}
+      <a href="{{ route('login') }}" class="btn btn-login ms-3 me-2">Masuk</a>
     </div>
   </div>
 </nav>
